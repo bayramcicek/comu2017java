@@ -33,7 +33,7 @@ class Sinif1 {
     }
 
 }
-/////////////////////////new class/////////////////////
+/////////////////////////new class//////////////////////
 class Sinif2 {
     static void Display2(){
         System.out.println(" Now you seeing Public Display2 () method ");
