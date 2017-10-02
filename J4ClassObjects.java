@@ -6,7 +6,7 @@ package PackageJavaNesne;
 public class J4ClassObjects {
     public static void main(String[] args){ // main class
 
-        Sinif1 s1 = new Sinif1(); /* burada Display2 () methodu public yani genel olduğu için
+        Sinif1 s1 = new Sinif1(); /* burada Display1 () methodu public yani genel olduğu için
                                     main içinde yeni bir nesne oluşturup , oluşturduğumuz nesne
                                     ile Display1 () methodunu çağırmak zorundayız */
         s1.Display1();
