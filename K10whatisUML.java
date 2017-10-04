@@ -30,6 +30,27 @@ public class K10whatisUML {
 
          */
 
+        /*
+
+        |----Xyz sınıfı(class) içinde---|
+        |                               |
+        |    -Coursename:String         |  --> (-) private , (Coursename) değişken(instance variable)
+        |    +setName(name:String)      |  --> (+) public , (parametre:türü)
+        |    +getName():String          |  --> method():geriDöndürdüğüDeğerTipi
+        |                               |
+        |-------------------------------|
+
+        instance variable :
+        In object-oriented programming with classes, an instance variable
+        is a variable defined in a class (i.e. a member variable ), for
+         which each instantiated object of the class has a separate copy,
+         or instance. An instance variable is similar to a class variable.
+         ... Variables are properties an object knows about itself.
+
+        -Başka bir classta olusturulan nesnelerdir.
+
+         */
+
 
         System.out.println("\n--SUCCESS--");
     }
