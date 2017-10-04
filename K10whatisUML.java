@@ -3,7 +3,7 @@ package PackageJavaNesne2;
 /**
  * Created by cicek on 4.10.2017 13:07
  */
-public class J10whatisUML {
+public class K10whatisUML {
     public static void main(String[] args){
 
         /*
