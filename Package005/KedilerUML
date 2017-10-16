@@ -1,0 +1,27 @@
+package Package005;
+
+/**
+ * Created by cicek on 16.10.2017 19:08
+ */
+public class KediUML {
+
+    /*
+    Kediler
+    -ad:String
+    -kh:double
+    -th:double
+
+    <<contructor>> Kediler(a:String,k:double,t:double)
+    <<contructor>> Kediler()
+
+    +setAll(a:String,b:double,c:double)
+
+    +ortalama(double hiz1a,double hiz2b):double
+
+    +getAd():String
+    +getKh():double
+    +getTh():double
+
+
+     */
+}
