@@ -25,6 +25,14 @@ public class J1Math {
      sqrt(a) --> kök al(^2)
      exp(a) --> üssel artan
      log(a) --> logaritma
+     
+     /////////////////////////////////////////
+
+     import java.util.Random
+
+     Random rNum = new Random(2);  --> [0,1] arası
+
+     x = 1 + rNum.nextInt(6);  --> [1,6] arası
 
     */
 
