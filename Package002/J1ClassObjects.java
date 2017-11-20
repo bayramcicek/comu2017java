@@ -20,7 +20,7 @@ public class J1ClassObjects {
         System.out.print(" Enter a Lesson Name =  ");
         lesson1 = sc1.nextLine(); /* ekran girdisi alındı*/
 
-        ClassShow n1 = new ClassShow();
+        J2ClassShow n1 = new J2ClassShow();
         n1.ShowMe(lesson1);
 
 
