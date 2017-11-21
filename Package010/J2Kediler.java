@@ -46,7 +46,7 @@ public class J2Kediler {
     }
 
 
-    double ortalama(double hiz1,double hiz2){
+    public double ortalama(double hiz1,double hiz2){
 
         return (hiz1 + hiz2)/2;
     }
