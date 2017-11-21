@@ -1,0 +1,30 @@
+/*
+     math --> her zaman static ve double
+
+     Math.abs(a) --> mutlak değer / absolute value
+
+     Math.ceil(a) --> tavana yuvarla / ceil
+     Math.floor(a) --> tabana yuvarla / floor
+
+     Math.sin(a)
+     Math.cos(a)
+     Math.tan(a)
+     Math.cot(a)
+
+     Math.pow(a,b) --> üs al (a üssü b) / exponent
+     Math.max(a,b) --> en büyük
+     Math.min(a,b) --> en küçük
+
+     Math.sqrt(a) --> kök al(^2)
+     Math.exp(a) --> üssel artan
+     Math.log(a) --> logaritma
+
+     /////////////////////////////////////////
+
+     import java.util.Random
+
+     Random rNum = new Random(2);  --> [0,1] arası
+
+     x = 1 + rNum.nextInt(6);  --> [1,6] arası
+
+    */
