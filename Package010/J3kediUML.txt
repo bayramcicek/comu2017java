@@ -1,0 +1,21 @@
+/*
+
+    J2Kediler
+        -ad:String
+        -kh:double
+        -th:double
+
+    <<contructor>> J2Kediler()
+    <<contructor>> J2Kediler(a:String,k:double,t:double)
+
+
+    +setAll(a:String,b:double,c:double)
+
+    +getAd():String
+    +getKh():double
+    +getTh():double
+
+    +ortalama(double hiz1a,double hiz2b):double
+
+
+     */
