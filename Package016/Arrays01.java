@@ -12,6 +12,8 @@ public class Arrays01 {
         Array = Dizi = 1 den fazla ve aynı tip elemanların tutulması
 
         int[] dizi = new int[size];
+        
+        int[] a = {12,23,34,45,56};
 
          */
 
