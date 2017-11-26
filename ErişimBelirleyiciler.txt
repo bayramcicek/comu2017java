@@ -3,7 +3,8 @@ public:
 
 
 static:
-        Metodunun sadece bu uygulamaya ait olduğu ve bu uygulama nesneye yönelik tarzda başka bir uygulamaya çağrıldığında değiştirilemeyeceğini gösterir. Hafızada ne kadar kullanılırsa kullanılsın hep tek kopya tutar.
+        Metodunun sadece bu uygulamaya ait olduğu ve bu uygulama nesneye yönelik tarzda başka bir uygulamaya çağrıldığında değiştirilemeyeceğini gösterir.
+        Hafızada ne kadar kullanılırsa kullanılsın hep tek kopya tutar.
 
 
 void:
