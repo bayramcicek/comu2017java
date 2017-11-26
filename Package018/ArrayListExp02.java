@@ -33,22 +33,55 @@ public class ArrayListsExp02 {
         items.add("code");
 
         System.out.println("\n"+items);// ArrayList yazdırma
+        printArrayList(items); // ArrayList yazdırma diğer yol
 
-        System.out.print("-------------------------");
-        for (int i=0;i<items.size();i++){ // ArrayList yazdırma diğer yol
+    //--------------------------------------------------------------------------------//
 
-            System.out.println("\n" + items.get(i));
+        items.remove("red");
+        System.out.print("\n--------------------------------------------------remove(\"red\")");
+        System.out.println("\n"+items);
+
+    //--------------------------------------------------------------------------------//
+
+        items.add(2,"aaaaaaaad");//2.indise ekler(3.eleman yap)
+        System.out.print("--------------------------------------------------add(2,\"aaaaaaaad\")");
+        System.out.println("\n"+items);
+
+    //--------------------------------------------------------------------------------//
+
+        items.set(4,"seeet");//4.indisin yerine yaz
+        System.out.print("--------------------------------------------------set(4,\"seeet\")");
+        System.out.println("\n"+items);
+
+    //--------------------------------------------------------------------------------//
+
+        items.remove(1);
+        System.out.print("--------------------------------------------------remove(1)");
+        System.out.println("\n"+items);
+
+
+    //--------------------------------------------------------------------------------//
+
+        items.clear();
+        System.out.print("--------------------------------------------------clear()");
+        System.out.println("\n"+items);
+
+    //--------------------------------------------------------------------------------//
+
+        System.out.println("\nisEmpty ==> " + items.isEmpty());
+
+    }//main
+
+
+    public static void printArrayList(ArrayList<String> mylist){//
+
+        System.out.print("--------------------------------------------------");
+        for (int i=0;i<mylist.size();i++){
+
+            System.out.print("\n" + mylist.get(i));
 
         }
 
-        items.remove("red");
-        System.out.print("-------------------------");
-        System.out.println("\n"+items);
+    }//
 
-
-        items.add(2,"looooooooong");//2.indise ekler(3.eleman yap)
-        System.out.print("-------------------------");
-        System.out.println("\n"+items);
-
-    }//main
 }
