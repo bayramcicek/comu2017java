@@ -1,0 +1,22 @@
+public:
+        Fonksiyonunun dış kullanıcılara açık olduğu ve buna Java InterPreter’ı da dahil herkes tarafından erişebileceğimizi belirtilir.
+
+
+static:
+        Metodunun sadece bu uygulamaya ait olduğu ve bu uygulama nesneye yönelik tarzda başka bir uygulamaya çağrıldığında değiştirilemeyeceğini gösterir. Hafızada ne kadar kullanılırsa kullanılsın hep tek kopya tutar.
+
+
+void:
+        Metodun ekrana basma işlemi dışında hiçbir sonuç geri döndürmediğini gösterir. Sondaki küme paranteziyle main metodunu baþlatmış bulunuyoruz.
+
+
+protected:
+        Aynı paket içerisinden ve bu sınıfdan türemiş alt sınıflar tarafından erişilmeyi sağlayan erişim belirleyicisi. 
+
+
+friendly:
+        Yalnızca aynı paket içerisinden erişilmeyi sağlayan erişim belirleyicisi. 
+
+
+private:
+        Yalnızca kendi sınıfı içerisinden erişilmeyi sağlayan, başka her yerden erişimi kesen erişim belirleyicisi.
