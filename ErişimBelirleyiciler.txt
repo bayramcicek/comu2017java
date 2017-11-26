@@ -8,7 +8,7 @@ static:
 
 
 void:
-        Metodun ekrana basma işlemi dışında hiçbir sonuç geri döndürmediğini gösterir. Sondaki küme paranteziyle main metodunu baþlatmış bulunuyoruz.
+        Metodun ekrana basma işlemi dışında hiçbir sonuç geri döndürmediğini gösterir. Sondaki küme paranteziyle main metodunu başlatmış bulunuyoruz.
 
 
 protected:
