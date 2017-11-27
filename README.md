@@ -1,1 +1,1 @@
-# Güncel .)
+# Güncelleniyor
