@@ -26,6 +26,5 @@ public class a3Isci {
         return String.format("\n%s\n" + "%s\n" + "doğum = %s\n"  + "işe giriş tarihi = %s\n" ,adi,soyad,dogumTarihi,iseGirdigiTarih);
 
     }
-
-
+    
 }
