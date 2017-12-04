@@ -1,1 +1,2 @@
-## Son 2 ders eklenecek...
+## 
+### Bu haftaki Kalıtım ve geçen haftaki ders eklenecek.
