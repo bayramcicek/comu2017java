@@ -23,7 +23,6 @@ public class a2Tarih {
     public String toString() {
 
         return String.format("%d,%d,%d",gun,ay,yil);
-
     }
-
+    
 }
