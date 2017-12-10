@@ -28,18 +28,20 @@ public class Time1 {
     }//setTime
 
 
-//    public Time1(int h , int m , int s){  // buradaki constructor hatalı çalışıyor.Nedenini çözemedim.
+    public Time1(int h , int m , int s) throws Exception{
+
+
+        setTime(h,m,s);
+
+    }
 //
-//
-//        setTime(h,m,s);
-//
-//    }
-//
-//    public Time1(int hour, int min, int sec)  {  // buradaki constructor hatalı çalışıyor.Nedenini çözemedim.
+//    public Time1(int hour, int min, int sec) throws Exception{
 //
 //        setTime(this.hour , this.min , this.sec);
 //
 //    }
+    
+    public Time1() { }
 
 
     public String toUniversalString() {// 24lük saat
