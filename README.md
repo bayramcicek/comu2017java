@@ -1,1 +1,1 @@
-### Kalıtım eklenecek.
+# Kalıtım Eklendi:)
