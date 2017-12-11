@@ -1,4 +1,1 @@
-# Packageo2o deki hatalar giderildi
-### 
-
- 
+# Package020 deki hatalar giderildi
