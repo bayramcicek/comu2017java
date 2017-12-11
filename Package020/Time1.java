@@ -28,20 +28,23 @@ public class Time1 {
     }//setTime
 
 
-    public Time1(int h , int m , int s) throws Exception{
+    public Time1() {
+        // boş constructor
+    }
 
+    // 1. ve 2. constructorları yorum satırına alarak dene
+    public Time1(int h , int m , int s) throws Exception { // 1. constructor
 
-        setTime(h,m,s);
+        setTime(h,m,s); // burada (11,11,11) girilen değeri alır ve gereken formata çevirir
 
     }
+
+//    public Time1(int hour, int min, int sec) throws Exception {  // 2. constructor
 //
-//    public Time1(int hour, int min, int sec) throws Exception{
-//
-//        setTime(this.hour , this.min , this.sec);
-//
+//        setTime(this.hour , this.min , this.sec); // burada (11,11,11) girilen değeri değil bir önceki (0,0,0) değeri alır.
+//                                                  // this kullanılmasından dolayı olabilir   
 //    }
-    
-    public Time1() { }
+
 
 
     public String toUniversalString() {// 24lük saat
