@@ -1,2 +1,4 @@
-# Kalıtım Eklendi:)
-### Package022/023
+# Packageo2o deki hatalar giderildi
+### 
+
+ 
