@@ -46,7 +46,7 @@ public class ArrayListExp02 {
         items.add(2,"aaaaaaaad");//2.indise ekler(3.eleman yap)
         System.out.print("--------------------------------------------------add(2,\"aaaaaaaad\")");
         System.out.println("\n"+items);
-
+ 
     //--------------------------------------------------------------------------------//
 
         items.set(4,"seeet");//4.indisin yerine yaz
