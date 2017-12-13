@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * created by cicek on 26.11.2017 19:11
  */
 
-public class ArrayListsExp02 {
+public class ArrayListExp02 {
     private static ArrayList<String> list;
 
     public static void main(String[] args){
