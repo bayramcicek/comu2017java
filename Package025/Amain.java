@@ -12,7 +12,7 @@ package Package025;
 //
 //
 
-public class aMain {
+public class Amain {
     public static void main(String[] args){//main
 
         Calisan[] kisiler = new Calisan[3];
