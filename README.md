@@ -1,1 +1,2 @@
-# Eklenecek Package sayısı: 1
+# Tüm kodlar eklendi...
+## Rahatlıkla sınavlara çalışılabilir .)
