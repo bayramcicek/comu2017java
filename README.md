@@ -1,1 +1,1 @@
-# Eklenecek Package sayısı: 3
+# Eklenecek Package sayısı: 2
