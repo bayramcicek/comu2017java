@@ -1,2 +1,1 @@
-# Kodlar daha tam değil.
-## Son kodlar gün içinde eklenecek...
+# Eklenecek Package sayısı: 3
