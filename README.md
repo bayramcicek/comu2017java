@@ -1,2 +1,2 @@
 # Tüm kodlar eklendi...
-## Rahatlıkla sınavlara çalışılabilir .)
+## Kullanılan ide: Intellij IDEA Community Edition 
