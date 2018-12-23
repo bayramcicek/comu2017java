@@ -26,7 +26,7 @@ public class TestMain {
                 int dunyaToplamGuc=0;
 
                 for (int  i=0; i<dunyaArray.length; i++){
-                    dunyaArray[i] = rasgeleDunyaliAta(dunyaArray);
+                    dunyaArray[i] = rasgeleDunyaliAta();
                     dunyaToplamGuc += dunyaArray[i].gucHesapla();
                 }
 
@@ -37,7 +37,7 @@ public class TestMain {
                 int uzayToplamGuc=0;
 
                 for (int  i=0; i<uzayArray.length; i++){
-                    uzayArray[i] = rasgeleUzayliAta(uzayArray);
+                    uzayArray[i] = rasgeleUzayliAta();
                     uzayToplamGuc += uzayArray[i].gucHesapla();
                 }
 
@@ -54,7 +54,7 @@ public class TestMain {
         }
     }
 
-    public static DunyaliveUzayli rasgeleDunyaliAta(DunyaliveUzayli[] arr){
+    public static DunyaliveUzayli rasgeleDunyaliAta(){
 
             DunyaliveUzayli obj = null; // Exception in thread "main" java.lang.NullPointerException
 
@@ -68,7 +68,7 @@ public class TestMain {
             return obj;
     }
 
-    public static DunyaliveUzayli rasgeleUzayliAta(DunyaliveUzayli[] arr){
+    public static DunyaliveUzayli rasgeleUzayliAta(){
 
         DunyaliveUzayli obj = null; // Exception in thread "main" java.lang.NullPointerException
 
