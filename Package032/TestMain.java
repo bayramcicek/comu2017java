@@ -81,4 +81,43 @@ public class TestMain {
 
         return obj;
     }
+    
+        /* output:
+    
+    başlamak için -1 dışında bir sayı gir, çıkmak için -1 gir: 1
+
+    dünya güç: 8705
+    uzaylı güç: 8851
+    Bu elin puanı: -146
+    
+    başlamak için -1 dışında bir sayı gir, çıkmak için -1 gir: 3
+    
+    dünya güç: 8821
+    uzaylı güç: 9590
+    Bu elin puanı: -769
+    
+    başlamak için -1 dışında bir sayı gir, çıkmak için -1 gir: 5
+    
+    dünya güç: 9278
+    uzaylı güç: 9683
+    Bu elin puanı: -405
+    
+    başlamak için -1 dışında bir sayı gir, çıkmak için -1 gir: 22
+    
+    dünya güç: 8886
+    uzaylı güç: 8481
+    Bu elin puanı: 405
+    
+    başlamak için -1 dışında bir sayı gir, çıkmak için -1 gir: 2
+    
+    dünya güç: 8220
+    uzaylı güç: 9239
+    Bu elin puanı: -1019
+    
+    başlamak için -1 dışında bir sayı gir, çıkmak için -1 gir: -1
+    
+    
+    oyun bitti. son puanınız: -1934
+     */
+    
 }
